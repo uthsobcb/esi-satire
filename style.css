@@ -1,0 +1,13 @@
+body {
+    line-height: 1.4;
+    font-size: 16px;
+    padding: 0 10px;
+    margin: 50px auto;
+    max-width: 650px;
+}
+
+#maincontent {
+    max-width: 42em;
+    margin: 15 auto;
+    margin-top: 70px;
+}
