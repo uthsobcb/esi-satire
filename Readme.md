@@ -1,0 +1,3 @@
+# Evil Superintelligence Inc.
+
+Hey there! So, you actually thought Evil Superintelligence Inc. was a real thing? Seriously? This is pure satire, folks! We don't have dark lairs in made-up places like Darkvale or Shadow City, nor are we cooking up any diabolical AI schemes. This whole thing is just a joke to poke fun at the exaggerated fears about AI. Lighten up and enjoy the humor—no evil geniuses here, just a good laugh!
